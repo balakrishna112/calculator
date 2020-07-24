@@ -1,0 +1,31 @@
+#simple{
+    margin: 250px;
+    margin-left: 43%;
+}
+.title{ 
+    margin-bottom: 10px; 
+    text-align:center; 
+    width: 210px; 
+    color:black;
+    border: solid black 2px; 
+    } 
+#data{
+ height: 15rem;
+ background-color: cornsilk;
+}
+
+    input[type="button"] 
+    { 
+    background-color:black; 
+    color: white;
+    border: solid black 2px; 
+    
+    width:100% 
+    } 
+
+    input[type="text"] 
+    { 
+    background-color:white
+    border:solid black 2px;
+    width:100%;
+    } 
